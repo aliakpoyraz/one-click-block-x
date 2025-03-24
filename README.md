@@ -1,3 +1,4 @@
+# EN
 # X Quick Block Chrome Extension
 
 This Chrome extension allows you to quickly block post owners on X (Twitter) platform.
@@ -31,6 +32,8 @@ This Chrome extension allows you to quickly block post owners on X (Twitter) pla
 - Blocking action can be reversed
 - Extension only works in Chrome browser
 
+-------
+#TR
 # X Hızlı Engelle Chrome Eklentisi
 
 Bu Chrome eklentisi, X (Twitter) platformunda gönderi sahiplerini hızlıca engellemenizi sağlar.
