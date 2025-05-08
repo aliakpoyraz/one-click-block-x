@@ -33,7 +33,7 @@ This Chrome extension allows you to quickly block post owners on X (Twitter) pla
 - Extension only works in Chrome browser
 
 -------
-#TR
+# TR
 # X Hızlı Engelle Chrome Eklentisi
 
 Bu Chrome eklentisi, X (Twitter) platformunda gönderi sahiplerini hızlıca engellemenizi sağlar.
